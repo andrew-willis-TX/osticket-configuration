@@ -1,6 +1,6 @@
 <h1> osticket-configuration </h1>
 
-<h2> Environment and Technology </h2>
+<img src="" alt="CHANGE ME!!!!!!"/>
 
 - Micosoft Azure
 - Windows 10 VM
