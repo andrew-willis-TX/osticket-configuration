@@ -16,3 +16,4 @@
 - Create two new customers 
 - Create 3 SLA severities
 - Create help topics
+- Practice creating, triaging, and solving tickets
