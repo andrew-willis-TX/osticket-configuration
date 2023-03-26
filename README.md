@@ -1,6 +1,11 @@
-<h1> osticket-configuration </h1>
+<h1> osticket-configuration </h1> 
+In this lab exercise we explore the configuration of various osTicket user roles and SLA severities. 
+<br></br>
+<p align="center">
+<img src="https://yunohost.org/user/images/osticket_logo.svg" height="50%" width="50%" alt="osTicket Logo"/>
+</p>
 
-<img src="" alt="CHANGE ME!!!!!!"/>
+<h2> Environment and Technology </h2> 
 
 - Micosoft Azure
 - Windows 10 VM
