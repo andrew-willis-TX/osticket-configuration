@@ -29,7 +29,7 @@ In this lab exercise we explore the configuration of various osTicket user roles
 <img src="https://i.imgur.com/5T4EMfM.png" height="50%" width="50%" alt="Creating Supreme Admin Role."/>
 </p>
 
-- Create System Admin role
+- Create System Admininistrator Department. Agents, Departments, Add New Department
 - Create Level I and Level II Support Roles
 - Create two new agents (support workers) 
 - Allow all users to create tickets
