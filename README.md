@@ -70,5 +70,8 @@ In this lab exercise we explore the configuration of various osTicket user roles
 <img src="https://i.imgur.com/g7rKkYL.png" height="50%" width="50%" alt="Creating Sev-C."/>
 </p>
 
-10. Create help topics
-- Practice creating, triaging, and solving tickets
+10. Create the following help topics: "Business Critical Outage", "Personal Computer Issues", "Equipment Request", and "Password Reset". Admin panel, Manage, Help Topics, Add New Help Topic.
+<p align="center">
+<img src="https://i.imgur.com/pddZ5TA.png" height="50%" width="50%" alt="Creating a New Help Topic."/>
+</p>
+
